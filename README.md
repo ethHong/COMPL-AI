@@ -2,7 +2,11 @@
 
 
 
-* This project is follow - up improvement of the following project. For the general workflow / product information, refer to: [ADA & Legal Helper [![System Design](System Design.png)](https://ethanhong.tech/projects/ada-&-legal-helper-(llm-agent-workflow-product-design))
+* This project is follow - up improvement of the following project. For the general workflow / product information, refer to: [ADA & Legal Helper](https://ethanhong.tech/projects/ada-&-legal-helper-(llm-agent-workflow-product-design))
+
+![Image](https://github.com/ethHong/COMPL-AI/blob/main/Image.png?raw=true)
+
+![System Design](https://github.com/ethHong/COMPL-AI/blob/main/System%20Design.png?raw=true)
 
 
 # Improvement
@@ -12,18 +16,17 @@
 
 # Product Introduction
 
-![System Design](SLIDES/LLMs SLIDES.pptx.png)
 
-![System Design](SLIDES/LLMs SLIDES.pptx (1).png)
 
-![System Design](SLIDES/LLMs SLIDES.pptx (2).png)
+![LLMs SLIDES (0)](https://github.com/ethHong/COMPL-AI/blob/main/SLIDES/LLMs%20SLIDES.pptx.png?raw=true)
+![LLMs SLIDES (1)](https://github.com/ethHong/COMPL-AI/blob/main/SLIDES/LLMs%20SLIDES.pptx%20(1).png?raw=true)
+![LLMs SLIDES (2)](https://github.com/ethHong/COMPL-AI/blob/main/SLIDES/LLMs%20SLIDES.pptx%20(2).png?raw=true)
+![LLMs SLIDES (3)](https://github.com/ethHong/COMPL-AI/blob/main/SLIDES/LLMs%20SLIDES.pptx%20(3).png?raw=true)
+![LLMs SLIDES (4)](https://github.com/ethHong/COMPL-AI/blob/main/SLIDES/LLMs%20SLIDES.pptx%20(4).png?raw=true)
+![LLMs SLIDES (5)](https://github.com/ethHong/COMPL-AI/blob/main/SLIDES/LLMs%20SLIDES.pptx%20(5).png?raw=true)
+![LLMs SLIDES (6)](https://github.com/ethHong/COMPL-AI/blob/main/SLIDES/LLMs%20SLIDES.pptx%20(6).png?raw=true)
 
-![System Design](SLIDES/LLMs SLIDES.pptx (3).png)
 
-![System Design](SLIDES/LLMs SLIDES.pptx (4).png)
-
-![System Design](SLIDES/LLMs SLIDES.pptx (5).png)
-
-![System Design](SLIDES/LLMs SLIDES.pptx (6).png)
 
 **🔗[App link](https://compl-ai.lovable.app/)**
+
